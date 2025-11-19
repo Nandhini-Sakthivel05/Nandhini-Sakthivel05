@@ -47,13 +47,12 @@ A complete backend project to manage students, teachers, classes, attendance & m
 `Python` • `Django` • `DRF` • `MySQL` • `Postman`
 
 ---
+### 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+![Nandhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandhini-Sakthivel05&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhini-Sakthivel05&layout=compact&theme=tokyonight)
+
 
 ---
 
